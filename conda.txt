@@ -1,4 +1,4 @@
 streamlit==0.79.0
-rdkit-2021
+rdkit
 numpy
 pandas
