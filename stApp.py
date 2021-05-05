@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 from rdkit import Chem
-from Chem import Draw
+from rdkit.Chem import Draw
 
 @st.cache
 def load_df():
