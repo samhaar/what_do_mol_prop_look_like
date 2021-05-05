@@ -1,4 +1,4 @@
 streamlit==0.79.0
-conda-forge/rdkit
+rdkit-2021
 numpy
 pandas
