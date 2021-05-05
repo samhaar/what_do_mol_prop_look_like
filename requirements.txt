@@ -2,4 +2,4 @@ streamlit==0.79.0
 rdkit-pypi
 numpy
 pandas
-libgcc==5.2.0
+libgcc
